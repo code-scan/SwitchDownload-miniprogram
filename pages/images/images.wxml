@@ -3,7 +3,7 @@
 
   <view class="page-body">
     <button bindtap="downloadBtn" type="primary">保存所有</button>
-    <view wx:for="{{images}}" class="image-body" >
+    <view wx:for="{{images}}" class="page-section-ctn" >
       <view >
         <image class="image" src="http://192.168.0.1/img/{{item}}"/>
       </view>
