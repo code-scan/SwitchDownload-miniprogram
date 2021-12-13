@@ -1,0 +1,9 @@
+.page-section-ctn {
+    /* text-align: center; */
+  }
+  
+  .image {
+    /* margin-right: 35px; */
+    /* width: 345px; */
+    /* height: 225px; */
+  }

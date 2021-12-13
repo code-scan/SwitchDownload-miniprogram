@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <image bindtap="bindViewTap" class="userinfo-avatar" src="{{loadingImage}}" mode="cover"></image>
+    <text class="userinfo-nickname">{{loadingMessage}}</text>
+    <text class="user-motto">需要先链接Switch相册热点。</text>
+
+  </view>
+
+</view>
